@@ -6,7 +6,8 @@
 #ifdef _WIN32
 #include <io.h>
 #define access _access
-
+#include <windows.h>
+#define usleep(x) Sleep((x)/1000)
 #else
 #include <unistd.h>
 #endif
