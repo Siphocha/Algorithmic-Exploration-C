@@ -1,0 +1,89 @@
+PATIENT MEDICAL RECORD
+=====================
+
+PATIENT INFORMATION:
+Name: John Smith
+ID: P-7842-2024
+DOB: 1985-03-15
+Gender: Male
+Address: 123 Medical Center Dr, Boston, MA
+
+VITAL SIGNS:
+Blood Pressure: 120/80 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.6°F
+Respiratory Rate: 16 breaths/min
+Oxygen Saturation: 98%
+
+MEDICAL HISTORY:
+- Hypertension (controlled with medication)
+- Allergies: Penicillin, Shellfish
+- Previous Surgery: Appendectomy (2018)
+- Family History: Father with cardiovascular disease
+
+CURRENT MEDICATIONS:
+1. Lisinopril 10mg - once daily for blood pressure
+2. Atorvastatin 20mg - once daily for cholesterol
+3. Aspirin 81mg - once daily for cardiovascular protection
+
+LABORATORY RESULTS:
+Complete Blood Count (CBC):
+- WBC: 7.2 x 10^3/μL
+- RBC: 4.8 x 10^6/μL
+- Hemoglobin: 14.2 g/dL
+- Hematocrit: 42.1%
+
+Comprehensive Metabolic Panel:
+- Glucose: 95 mg/dL
+- BUN: 18 mg/dL
+- Creatinine: 1.0 mg/dL
+- Sodium: 140 mEq/L
+- Potassium: 4.2 mEq/L
+
+Liver Function Tests:
+- ALT: 25 U/L
+- AST: 22 U/L
+- Alkaline Phosphatase: 85 U/L
+
+Lipid Panel:
+- Total Cholesterol: 180 mg/dL
+- LDL: 100 mg/dL
+- HDL: 55 mg/dL
+- Triglycerides: 125 mg/dL
+
+DIAGNOSIS:
+1. Essential hypertension, controlled
+2. Hyperlipidemia, controlled
+3. No current acute issues
+
+TREATMENT PLAN:
+1. Continue current medication regimen
+2. Follow up in 6 months for routine check-up
+3. Maintain low-sodium, low-cholesterol diet
+4. Regular exercise: 30 minutes, 5 days per week
+5. Monitor blood pressure weekly
+
+PHYSICIAN NOTES:
+Patient presents for routine follow-up. All vitals within normal limits.
+Current medications are effective and well-tolerated. No side effects reported.
+Patient is compliant with treatment plan and lifestyle modifications.
+Encouraged to continue current management strategy.
+
+NEXT APPOINTMENT:
+Schedule: October 15, 2024
+Purpose: Routine follow-up and lab work
+
+EMERGENCY CONTACT:
+Name: Mary Smith
+Relationship: Spouse
+Phone: (617) 555-0123
+
+INSURANCE INFORMATION:
+Provider: New England Health Partners
+Policy Number: NHP-8876-42
+Group Number: BOS-MED-12
+
+================================================================================
+CONFIDENTIAL: This document contains protected health information.
+Unauthorized disclosure is prohibited by HIPAA regulations.
+================================================================================
